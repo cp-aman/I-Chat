@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "573899306235",
+    "project_id": "intelli-chat-28",
+    "storage_bucket": "intelli-chat-28.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573899306235:android:b93f9dbe7efd04c4e36c5e",
+        "android_client_info": {
+          "package_name": "com.example.ichat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "573899306235-pqqp0km4l8ohootg0ua9asfrn5pl2p6k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ichat",
+            "certificate_hash": "bcdc367a935eddbee227ed252fb3115bf5ab003c"
+          }
+        },
+        {
+          "client_id": "573899306235-1gbv0dv50e91mnu3ili141arrsd44osp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVvkFAwQH7wUxr8Wj1jdalP_BGt2tDlvo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "573899306235-1gbv0dv50e91mnu3ili141arrsd44osp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "573899306235-j3vc5jjhhgo3mfpand4obpnfdpjtntjo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ichat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
